@@ -9,7 +9,7 @@ An example from wikipedia:
 
 For example:
 
-```bash
+```
 $ ./bayes.rb
 Prior probability: 0.5
 Probability of observation given prior is true: 99
